@@ -1,6 +1,7 @@
 # 📱 Story App
 
-![Story App Banner](link_ke_banner_anda.png)
+![image](https://github.com/user-attachments/assets/5ab0fb30-14fd-41a6-8cbd-8e6a8aeb9f89)
+
 
 Story App adalah aplikasi Android yang memungkinkan pengguna untuk berbagi cerita mereka dengan komunitas Dicoding. Aplikasi ini menggunakan API Dicoding Story untuk mengelola dan menampilkan cerita dari berbagai pengguna.
 
