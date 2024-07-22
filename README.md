@@ -25,7 +25,9 @@ Story App adalah aplikasi Android yang memungkinkan pengguna untuk berbagi cerit
 
 ## 📷 Screenshots
 
-[Tambahkan beberapa screenshot aplikasi Anda di sini]
+![image](https://github.com/RanggaNf/githubuser/assets/142804080/592face8-1957-4430-9ea3-431786dd6f34)
+![story app](https://github.com/user-attachments/assets/56b67cb2-f07b-4878-ab41-9234fcf6f810)
+
 
 ## 🚀 Instalasi
 
